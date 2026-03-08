@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/gold_results/ # Çok büyükse veya yerel kalsın istersen
