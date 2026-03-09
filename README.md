@@ -38,16 +38,12 @@ The project is built with a focus on scalability and performance:
 
 ### Interface Walkthrough
 
-| Technical Insights |  Risk Profiling |
-| :---: | :---: |
-| <img width="2290" height="1266" alt="image" src="https://github.com/user-attachments/assets/f725f207-3dbf-40a2-b549-14227b499755" />
-| <img width="2294" height="1578" alt="image" src="https://github.com/user-attachments/assets/359559db-3c5c-4ffd-a343-7852331cb6fd" />
- |
-| <img width="2006" height="652" alt="image" src="https://github.com/user-attachments/assets/1edebe05-ecaa-41c5-baf3-86c008af6072" />
- | <img width="544" height="1130" alt="image" src="https://github.com/user-attachments/assets/711ed62a-a71c-4ad0-acd0-a62be5b4997e" />
- |
-| *Visualizing price action and momentum signals* | *Advanced quantitative risk assessment* |
+<img width="1464" height="830" alt="image" src="https://github.com/user-attachments/assets/d551434f-104e-459a-aefd-0b51891a3ab2" />
 
+<img width="1464" height="830" alt="image" src="https://github.com/user-attachments/assets/d85a8f32-b9c1-4823-adea-1447d11d3c9a" />
+<img width="1464" height="830" alt="image" src="https://github.com/user-attachments/assets/dba94158-1f92-4db3-a0be-9ab6a9ecc706" />
+
+<img width="1464" height="830" alt="image" src="https://github.com/user-attachments/assets/2d1b9ef2-2cd9-4cba-b664-b11f2bb67094" />
 
 ### Project Demo
 
@@ -95,16 +91,13 @@ Analiz motoru, çeşitlendirilmiş bir portföy için 10 yıllık geçmiş günl
 ![Dashboard](screenshots/dashboard.png)
 
 ## Görseller ve Demo
-| Technical Insights |  Risk Profiling |
-| :---: | :---: |
-| <img width="2290" height="1266" alt="image" src="https://github.com/user-attachments/assets/f725f207-3dbf-40a2-b549-14227b499755" />
-| <img width="2294" height="1578" alt="image" src="https://github.com/user-attachments/assets/359559db-3c5c-4ffd-a343-7852331cb6fd" />
- |
-| <img width="2006" height="652" alt="image" src="https://github.com/user-attachments/assets/1edebe05-ecaa-41c5-baf3-86c008af6072" />
- | <img width="544" height="1130" alt="image" src="https://github.com/user-attachments/assets/711ed62a-a71c-4ad0-acd0-a62be5b4997e" />
- |
-| *Visualizing price action and momentum signals* | *Advanced quantitative risk assessment* |
+<img width="1464" height="830" alt="image" src="https://github.com/user-attachments/assets/d551434f-104e-459a-aefd-0b51891a3ab2" />
+
+<img width="1464" height="830" alt="image" src="https://github.com/user-attachments/assets/d85a8f32-b9c1-4823-adea-1447d11d3c9a" />
+<img width="1464" height="830" alt="image" src="https://github.com/user-attachments/assets/dba94158-1f92-4db3-a0be-9ab6a9ecc706" />
+
+<img width="1464" height="830" alt="image" src="https://github.com/user-attachments/assets/2d1b9ef2-2cd9-4cba-b664-b11f2bb67094" />
 
 
-### Proje Demosu
+
 
